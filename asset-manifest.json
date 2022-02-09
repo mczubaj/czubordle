@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/czubordle/static/css/main.8f5f3808.css",
-    "main.js": "/czubordle/static/js/main.f71cd233.js",
+    "main.css": "/czubordle/static/css/main.4fb58cfa.css",
+    "main.js": "/czubordle/static/js/main.d96c0245.js",
     "static/js/787.8187f1ca.chunk.js": "/czubordle/static/js/787.8187f1ca.chunk.js",
     "index.html": "/czubordle/index.html",
-    "main.8f5f3808.css.map": "/czubordle/static/css/main.8f5f3808.css.map",
-    "main.f71cd233.js.map": "/czubordle/static/js/main.f71cd233.js.map",
+    "main.4fb58cfa.css.map": "/czubordle/static/css/main.4fb58cfa.css.map",
+    "main.d96c0245.js.map": "/czubordle/static/js/main.d96c0245.js.map",
     "787.8187f1ca.chunk.js.map": "/czubordle/static/js/787.8187f1ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f5f3808.css",
-    "static/js/main.f71cd233.js"
+    "static/css/main.4fb58cfa.css",
+    "static/js/main.d96c0245.js"
   ]
 }
